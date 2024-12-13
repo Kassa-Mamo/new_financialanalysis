@@ -1,5 +1,5 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-jupyter
+echo pandas > requirements.txt
+echo numpy >> requirements.txt
+echo matplotlib >> requirements.txt
+echo scikit-learn >> requirements.txt
+echo jupyter >> requirements.txt
