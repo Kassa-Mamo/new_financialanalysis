@@ -1,0 +1,12 @@
+# Ignore all data files in raw and processed data directories
+data/raw/*
+data/processed/*
+
+# Ignore Python compiled files
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
